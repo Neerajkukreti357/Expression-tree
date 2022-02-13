@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644749210 source:c:\users\deads0t\documents\code block\expressiontree\main.cpp
+	<iostream>
+	"EXPTREE.h"
+
+1644749065 c:\users\deads0t\documents\code block\expressiontree\exptree.h
+	<stack>
+
