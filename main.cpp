@@ -15,9 +15,7 @@ void display(Node* root)
 
 int main()
 {
-    generate_exp a("a+b*c-d/e");
-    cout<<a.giv_me()->data;
+    generate_exp a("(a*(b*(((c+a)+b)*c)))");
     display(a.giv_me());
-    cout<<"hellow";
     return 0;
 }
